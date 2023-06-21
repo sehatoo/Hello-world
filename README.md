@@ -1,3 +1,3 @@
 # Hello-world
 welcome to our site.
-im Thato Sepahane.im a student in belgiumcampus.
+im Thato Sepahane.im an IT student in belgiumcampus.
